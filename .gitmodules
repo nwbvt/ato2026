@@ -1,0 +1,3 @@
+[submodule "agentsinproduction/ai-agent-exercises"]
+	path = agentsinproduction/ai-agent-exercises
+	url = https://github.com/donshin/ai-agent-exercises.git
